@@ -1,0 +1,24 @@
+:root {
+    font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+h1, h2 {
+    color: #004488;
+}
+
+footer {
+    margin: 3em 0 0 0;
+    padding: 0;
+}
+
+footer p {
+    text-align: center;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+}
